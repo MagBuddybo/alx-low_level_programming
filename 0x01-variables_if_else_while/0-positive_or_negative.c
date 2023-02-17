@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - To create a random number
+ *
  * Return: 0 (Success)
+ *
  */
 
 int main(void)
