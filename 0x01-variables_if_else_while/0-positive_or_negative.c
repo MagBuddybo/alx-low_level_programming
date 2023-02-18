@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - main to create a random number
- *
+ * main - Entry point
+ *Description: prints if a number is positive or negative.
  * Return: Always  0 (Success)
  *
  */
