@@ -1,1 +1,1 @@
-My low level programming solutions
+My static library solutions
